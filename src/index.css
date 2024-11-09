@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.rsm-geography {
+  outline: none;
+}
+
+.rsm-marker {
+  cursor: pointer;
+}
